@@ -6,6 +6,8 @@ body{
     font-family:inherit;
     font-size:100px;
     animation-iteration-count: infinite;
+    text-transform: uppercase;
+    overflow: hidden;
 }
 .send{
     color: white;
