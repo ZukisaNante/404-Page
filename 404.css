@@ -4,7 +4,7 @@ body{
 }
 #message{
     font-family:inherit;
-    font-size: 10%;
+    font-size:100px;
 }
 .send{
     color: brown;
