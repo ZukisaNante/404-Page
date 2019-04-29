@@ -1,9 +1,10 @@
 #message{
-    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
 }
 .send{
     color: brown;
     text-align: center;
     font-style: inherit;
-    
+
 }
