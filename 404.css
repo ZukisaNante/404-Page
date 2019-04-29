@@ -10,6 +10,10 @@ body{
     color: brown;
     text-align: center;
     font-style: inherit;
-    size: 50px;
+    background-color: green;
+    padding: 10px 20px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 20px;
 
 }
