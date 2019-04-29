@@ -6,7 +6,7 @@ body{
     font-family:inherit;
     font-size:100px;
     animation-iteration-count: infinite;
-    text-transform: uppercase;
+    animation: animate 3s linear infinite;
     overflow: hidden;
 }
 .send{
