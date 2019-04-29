@@ -1,8 +1,12 @@
-#message{
+body{
+    background-color: darkcyan;
     font-family: 'Times New Roman', Times, serif;
+}
+#message{
+    font-family:inherit;
     font-size: 10px;
 }
-input.send{
+.send{
     color: brown;
     text-align: center;
     font-style: inherit;
