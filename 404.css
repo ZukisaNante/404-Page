@@ -2,7 +2,7 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 10px;
 }
-.send{
+input.send{
     color: brown;
     text-align: center;
     font-style: inherit;
